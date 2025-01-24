@@ -2,6 +2,7 @@
 # Implementasi Automated Essay Scoring pada Penilaian Esai Bahasa Indonesia dengan Pendekatan Transfer Learning
 
 Implementasi ini mengintegrasikan fitur IndoBERT dengan IndoSBERT dengan metode concatenation untuk sistem AES ke dalam aplikasi berbasis website.
+
 ![Diagram Alir](image/metodologi.png)
 
 ## Concatenation IndoBERT-IndoSBERT
