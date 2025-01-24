@@ -1,0 +1,13 @@
+datasets==3.2.0
+deep_translator==1.11.4
+imblearn==0.0
+langchain==0.3.15
+matplotlib==3.8.0
+numpy==2.2.2
+pandas==2.2.3
+Requests==2.32.3
+scikit_learn==1.4.2
+seaborn==0.13.2
+sentence_transformers==3.0.1
+torch==2.0.1
+transformers==4.42.3

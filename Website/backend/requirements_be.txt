@@ -1,0 +1,5 @@
+fastapi==0.115.6
+PyPDF2==3.0.1
+python_docx==1.1.2
+torch==2.0.1
+transformers==4.42.3
